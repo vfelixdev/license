@@ -1,4 +1,4 @@
 window.__LICENSE__ = {
-  active: true,
+  active: false,
   updatedAt: "2026-01-16"
 };
