@@ -1,1 +1,1 @@
-window.__LICENSE__ = { active: true };
+window.__LICENSE__ = { active: false };
